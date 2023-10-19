@@ -3,6 +3,7 @@ html, body {
     color:rgb(14, 2, 67);
     font-size: 20px;
     min-height: 100vh;
+    text-align: center;
 }
 
 header {
@@ -60,7 +61,7 @@ main {
 .ul_div {
     border: 3px solid rgb(14, 2, 67);
     padding: 10px;
-    margin: 10px auto;
+    margin: 10px;
     list-style-position: inside;
     margin-bottom: 10px;
 }
