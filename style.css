@@ -120,8 +120,6 @@ footer {
     background-color: rgb(45, 105, 236);
     padding: 10px;
     height: 110px;
-    display: flex;
-    align-items: flex-start;
 }
 
 footer p {
